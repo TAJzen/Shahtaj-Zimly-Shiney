@@ -1,13 +1,11 @@
-# Shahtaj Zimly Shiney
+# Welcome to Shahtaj's GitHub Profile! </br> 
+### Hi, it's Shahtaj Zimly Shiney
 
-Hello you can call me Taj <3
-🍀 I am learning CS
-🐸 Love watching manga, anime, animation
-⚡️ Motto is "Live"
+You can call me Taj.</br>
+🍀 I am learning CS</br>
+🎥🍿 Love watching **manga, anime, animation**</br>
 
-
-
-
+⚡️ Motto is **"Live"**  
 
 
 
